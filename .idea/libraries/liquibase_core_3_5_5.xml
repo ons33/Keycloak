@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="liquibase-core-3.5.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/keycloak/org/liquibase/main/liquibase-core-3.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

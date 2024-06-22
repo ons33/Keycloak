@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jakarta.enterprise.concurrent-1.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/glassfish/javax/enterprise/concurrent/main/jakarta.enterprise.concurrent-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

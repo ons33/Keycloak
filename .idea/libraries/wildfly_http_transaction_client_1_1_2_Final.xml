@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wildfly-http-transaction-client-1.1.2.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/wildfly/http-client/transaction/main/wildfly-http-transaction-client-1.1.2.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

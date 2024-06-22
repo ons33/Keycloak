@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jboss-jsf-api_2.3_spec-3.0.0.SP04">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/javax/faces/api/main/jboss-jsf-api_2.3_spec-3.0.0.SP04.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

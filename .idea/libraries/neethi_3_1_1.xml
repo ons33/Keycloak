@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="neethi-3.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/neethi/main/neethi-3.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="opentracing-web-servlet-filter-0.2.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentracing/contrib/opentracing-web-servlet-filter/main/opentracing-web-servlet-filter-0.2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

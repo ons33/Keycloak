@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jboss-transaction-spi-7.6.0.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/jboss-transaction-spi/main/jboss-transaction-spi-7.6.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

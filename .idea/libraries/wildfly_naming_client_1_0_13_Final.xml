@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wildfly-naming-client-1.0.13.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/wildfly/naming-client/main/wildfly-naming-client-1.0.13.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

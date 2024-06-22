@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wildfly-system-jmx-21.0.1.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/as/system-jmx/main/wildfly-system-jmx-21.0.1.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

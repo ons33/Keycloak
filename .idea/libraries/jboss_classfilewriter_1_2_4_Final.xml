@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jboss-classfilewriter-1.2.4.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/classfilewriter/main/jboss-classfilewriter-1.2.4.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="main31">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/opensaml/main/opensaml-xmlsec-impl-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/opensaml/main/opensaml-saml-impl-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/opensaml/main/opensaml-soap-api-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/opensaml/main/opensaml-xacml-api-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/opensaml/main/opensaml-security-impl-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/opensaml/main/java-support-7.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/opensaml/main/opensaml-xmlsec-api-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/opensaml/main/cryptacular-1.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/opensaml/main/opensaml-saml-api-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/opensaml/main/opensaml-profile-api-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/opensaml/main/opensaml-core-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/opensaml/main/opensaml-xacml-saml-impl-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/opensaml/main/opensaml-security-api-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/opensaml/main/opensaml-xacml-impl-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/opensaml/main/opensaml-xacml-saml-api-3.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="main36">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/activemq/artemis/main/artemis-jms-client-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/activemq/artemis/main/artemis-jdbc-store-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/activemq/artemis/main/artemis-jms-server-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/activemq/artemis/main/artemis-tools-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/activemq/artemis/main/artemis-hqclient-protocol-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/activemq/artemis/main/artemis-server-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/activemq/artemis/main/artemis-dto-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/activemq/artemis/main/artemis-cli-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/activemq/artemis/main/artemis-selector-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/activemq/artemis/main/artemis-service-extensions-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/activemq/artemis/main/artemis-core-client-2.10.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

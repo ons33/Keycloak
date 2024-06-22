@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="velocity-engine-core-2.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/velocity/main/velocity-engine-core-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="main3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/infinispan/hibernate-cache/main/infinispan-hibernate-cache-v53-11.0.4.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/infinispan/hibernate-cache/main/infinispan-hibernate-cache-spi-11.0.4.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/infinispan/hibernate-cache/main/infinispan-hibernate-cache-commons-11.0.4.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

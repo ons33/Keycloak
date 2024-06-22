@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="keycloak-wildfly-server-subsystem-12.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/keycloak/org/keycloak/keycloak-wildfly-server-subsystem/main/keycloak-wildfly-server-subsystem-12.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="main34">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/lucene/internal/main/lucene-misc-5.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/lucene/internal/main/lucene-backward-codecs-5.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="main15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/aesh/main/readline-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/aesh/main/aesh-extensions-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/aesh/main/aesh-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

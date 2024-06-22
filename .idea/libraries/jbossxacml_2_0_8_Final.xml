@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jbossxacml-2.0.8.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/security/xacml/main/jbossxacml-2.0.8.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

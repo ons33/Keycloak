@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="main7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/ws/jaxws-client/main/jbossws-cxf-client-5.4.2.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/ws/jaxws-client/main/jbossws-cxf-jaspi-5.4.2.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

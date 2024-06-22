@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jberet-core-1.3.7.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jberet/jberet-core/main/jberet-core-1.3.7.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

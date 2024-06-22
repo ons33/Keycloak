@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="opentracing-jaxrs2-0.4.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentracing/contrib/opentracing-jaxrs2/main/opentracing-jaxrs2-0.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

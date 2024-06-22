@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="smallrye-opentracing-1.3.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/smallrye/opentracing/main/smallrye-opentracing-1.3.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

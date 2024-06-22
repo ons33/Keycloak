@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="main25">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/activemq/artemis/journal/main/activemq-artemis-native-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/activemq/artemis/journal/main/artemis-journal-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/activemq/artemis/journal/main/artemis-commons-2.10.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

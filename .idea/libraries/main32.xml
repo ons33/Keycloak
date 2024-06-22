@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="main32">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/narayana/rts/main/restat-api-5.10.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/narayana/rts/main/restat-bridge-5.10.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/narayana/rts/main/restat-integration-5.10.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/narayana/rts/main/restat-util-5.10.6.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

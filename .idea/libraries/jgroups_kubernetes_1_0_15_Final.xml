@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jgroups-kubernetes-1.0.15.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jgroups/kubernetes/main/jgroups-kubernetes-1.0.15.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

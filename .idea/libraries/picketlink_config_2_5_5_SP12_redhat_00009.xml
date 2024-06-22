@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="picketlink-config-2.5.5.SP12-redhat-00009">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/picketlink/config/main/picketlink-config-2.5.5.SP12-redhat-00009.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

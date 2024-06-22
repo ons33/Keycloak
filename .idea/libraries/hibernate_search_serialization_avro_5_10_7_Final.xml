@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hibernate-search-serialization-avro-5.10.7.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/hibernate/search/serialization-avro/main/hibernate-search-serialization-avro-5.10.7.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

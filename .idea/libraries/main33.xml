@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="main33">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/smallrye/config/main/smallrye-config-source-file-system-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/smallrye/config/main/smallrye-config-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/smallrye/config/main/smallrye-config-common-1.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

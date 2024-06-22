@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wildfly-deployment-scanner-13.0.3.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/as/deployment-scanner/main/wildfly-deployment-scanner-13.0.3.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

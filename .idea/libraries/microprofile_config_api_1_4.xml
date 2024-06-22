@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="microprofile-config-api-1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/eclipse/microprofile/config/api/main/microprofile-config-api-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

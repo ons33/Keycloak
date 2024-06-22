@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wildfly-elytron-integration-13.0.3.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/wildfly/extension/elytron/main/wildfly-elytron-integration-13.0.3.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

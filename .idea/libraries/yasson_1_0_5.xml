@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="yasson-1.0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/eclipse/yasson/main/yasson-1.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

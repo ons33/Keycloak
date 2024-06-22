@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="compensations-5.10.6.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/narayana/compensations/main/compensations-5.10.6.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

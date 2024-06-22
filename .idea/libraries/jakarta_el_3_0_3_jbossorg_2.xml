@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jakarta.el-3.0.3.jbossorg-2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/glassfish/jakarta/el/main/jakarta.el-3.0.3.jbossorg-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

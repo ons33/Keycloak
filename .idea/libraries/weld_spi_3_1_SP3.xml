@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="weld-spi-3.1.SP3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/weld/spi/main/weld-spi-3.1.SP3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

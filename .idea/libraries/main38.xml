@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="main38">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/security/negotiation/main/jboss-negotiation-ntlm-3.0.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/security/negotiation/main/jboss-negotiation-common-3.0.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/security/negotiation/main/jboss-negotiation-spnego-3.0.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/security/negotiation/main/jboss-negotiation-extras-3.0.6.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

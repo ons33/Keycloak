@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xnio-api-3.8.2.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/xnio/main/xnio-api-3.8.2.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

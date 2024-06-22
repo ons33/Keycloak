@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wildfly-process-controller-13.0.3.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/as/process-controller/main/wildfly-process-controller-13.0.3.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

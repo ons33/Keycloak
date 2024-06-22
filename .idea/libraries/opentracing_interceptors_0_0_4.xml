@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="opentracing-interceptors-0.0.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentracing/contrib/opentracing-interceptors/main/opentracing-interceptors-0.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

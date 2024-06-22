@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="main30">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/as/webservices/main/wildfly-webservices-server-integration-21.0.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/as/webservices/main/jbossws-cxf-resources-5.4.2.Final-wildfly1900.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

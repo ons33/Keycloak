@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="main13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/lucene/main/lucene-core-5.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/lucene/main/lucene-analyzers-common-5.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/lucene/main/lucene-facet-5.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/lucene/main/lucene-queryparser-5.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/lucene/main/lucene-queries-5.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

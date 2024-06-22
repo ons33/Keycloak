@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="azure-storage-8.6.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/com/microsoft/azure/storage/main/azure-storage-8.6.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

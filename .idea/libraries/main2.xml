@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="main2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/httpcomponents/main/httpcore-nio-4.4.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/httpcomponents/main/httpasyncclient-4.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/httpcomponents/main/httpmime-4.5.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

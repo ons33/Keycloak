@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-lang3-3.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/keycloak/org/apache/commons/lang3/main/commons-lang3-3.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

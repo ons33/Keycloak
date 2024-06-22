@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wildfly-datasources-agroal-21.0.1.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/wildfly/extension/datasources-agroal/main/wildfly-datasources-agroal-21.0.1.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

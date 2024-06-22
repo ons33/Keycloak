@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="opentracing-tracerresolver-0.1.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentracing/contrib/opentracing-tracerresolver/main/opentracing-tracerresolver-0.1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

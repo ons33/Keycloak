@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="infinispan-commons-11.0.4.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/infinispan/commons/main/infinispan-commons-11.0.4.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

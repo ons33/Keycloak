@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="main1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/asm/asm/main/asm-util-7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/asm/asm/main/asm-7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

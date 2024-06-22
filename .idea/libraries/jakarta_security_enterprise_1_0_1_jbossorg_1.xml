@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jakarta.security.enterprise-1.0.1-jbossorg-1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/glassfish/soteria/main/jakarta.security.enterprise-1.0.1-jbossorg-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

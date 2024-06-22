@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jackson-dataformat-cbor-2.10.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/keycloak/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/main/jackson-dataformat-cbor-2.10.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

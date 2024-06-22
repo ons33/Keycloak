@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kerby-asn1-2.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/keycloak/org/apache/kerby/kerby-asn1/main/kerby-asn1-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

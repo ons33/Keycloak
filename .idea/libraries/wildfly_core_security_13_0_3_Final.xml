@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wildfly-core-security-13.0.3.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/as/core-security/main/wildfly-core-security-13.0.3.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="main35">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/eclipse/jgit/main/org.eclipse.jgit-5.9.0.202009080501-r.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/eclipse/jgit/main/org.eclipse.jgit.ssh.apache-5.9.0.202009080501-r.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

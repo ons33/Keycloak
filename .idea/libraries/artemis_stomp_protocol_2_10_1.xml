@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="artemis-stomp-protocol-2.10.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/activemq/artemis/protocol/stomp/main/artemis-stomp-protocol-2.10.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

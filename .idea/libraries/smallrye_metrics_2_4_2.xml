@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="smallrye-metrics-2.4.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/smallrye/metrics/main/smallrye-metrics-2.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

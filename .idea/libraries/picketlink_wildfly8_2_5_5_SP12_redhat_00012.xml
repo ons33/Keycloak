@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="picketlink-wildfly8-2.5.5.SP12-redhat-00012">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/picketlink/federation/bindings/main/picketlink-wildfly8-2.5.5.SP12-redhat-00012.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

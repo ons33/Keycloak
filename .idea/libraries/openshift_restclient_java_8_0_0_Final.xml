@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="openshift-restclient-java-8.0.0.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/keycloak/com/openshift/openshift-restclient-java/main/openshift-restclient-java-8.0.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

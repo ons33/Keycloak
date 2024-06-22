@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="narayana-jts-idlj-5.10.6.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/jts/main/narayana-jts-idlj-5.10.6.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

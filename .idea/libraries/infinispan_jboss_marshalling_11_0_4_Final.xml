@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="infinispan-jboss-marshalling-11.0.4.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/keycloak/org/infinispan/jboss-marshalling/main/infinispan-jboss-marshalling-11.0.4.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

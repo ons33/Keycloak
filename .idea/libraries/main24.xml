@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="main24">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/xalan/main/xalan-2.7.1.jbossorg-4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/xalan/main/serializer-2.7.1.jbossorg-4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

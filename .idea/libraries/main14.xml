@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="main14">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/com/sun/xml/bind/main/jaxb-jxc-2.3.3-b02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/com/sun/xml/bind/main/codemodel-2.3.3-b02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/com/sun/xml/bind/main/jaxb-xjc-2.3.3-b02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/com/sun/xml/bind/main/jaxb-runtime-2.3.3-b02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/com/sun/xml/bind/main/istack-commons-tools-3.0.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/com/sun/xml/bind/main/txw2-2.3.3-b02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/com/sun/xml/bind/main/rngom-2.3.3-b02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/com/sun/xml/bind/main/istack-commons-runtime-3.0.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/com/sun/xml/bind/main/relaxng-datatype-2.3.3-b02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/com/sun/xml/bind/main/xsom-2.3.3-b02.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

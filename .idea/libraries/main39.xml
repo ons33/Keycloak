@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="main39">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-rt-databinding-aegis-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-rt-security-saml-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-rt-wsdl-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-tools-java2ws-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-rt-transports-local-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-tools-wsdlto-core-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-rt-bindings-soap-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-rt-transports-jms-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-rt-ws-rm-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-services-ws-discovery-api-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-tools-wsdlto-databinding-jaxb-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-rt-management-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-rt-transports-http-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-xjc-runtime-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-rt-frontend-jaxws-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-rt-ws-policy-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-rt-ws-addr-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-rt-bindings-coloc-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-rt-databinding-jaxb-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-tools-wsdlto-frontend-jaxws-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-rt-frontend-simple-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-xjc-dv-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-xjc-ts-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-rt-ws-mex-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-rt-transports-http-hc-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-xjc-boolean-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-tools-validator-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-tools-common-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-xjc-bug986-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-rt-bindings-xml-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-rt-features-clustering-3.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/apache/cxf/impl/main/cxf-rt-security-3.3.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

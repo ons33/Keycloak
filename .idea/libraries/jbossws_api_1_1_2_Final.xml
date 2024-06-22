@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jbossws-api-1.1.2.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/ws/api/main/jbossws-api-1.1.2.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

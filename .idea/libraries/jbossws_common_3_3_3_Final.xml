@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jbossws-common-3.3.3.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/ws/common/main/jbossws-common-3.3.3.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

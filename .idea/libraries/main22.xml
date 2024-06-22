@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="main22">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/picketbox/main/picketbox-commons-1.0.0.final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/picketbox/main/picketbox-5.0.3.Final-redhat-00006.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/picketbox/main/picketbox-infinispan-5.0.3.Final-redhat-00006.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

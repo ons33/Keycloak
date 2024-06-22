@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jboss-connector-api_1.7_spec-2.0.0.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/javax/resource/api/main/jboss-connector-api_1.7_spec-2.0.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
