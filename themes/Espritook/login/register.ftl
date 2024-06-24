@@ -98,7 +98,7 @@
                 name="user.attributes.mobile"
                 autocomplete="tel"
                 invalid="mobile"
-                placeholder="Numéro de téléphone"
+                placeholder="Numéro de téléphonee"
                 class="border-gray-300 h-10 rounded text-primary-600 w-full focus:ring-primary-200 focus:ring-opacity-50"
         />
       </div>
@@ -291,6 +291,14 @@
         emailField.addEventListener('change', async function() {
           const email = emailField.value;
 
+          // Vérification si l'email se termine par "@esprit.tn"
+          if (!email.endsWith('@esprit.tn')) {
+            // Afficher un message d'erreur si l'email ne se termine pas par "@esprit.tn"
+            errorContainer.textContent = 'L\'email doit se terminer par "@esprit.tn".';
+            errorContainer.style.display = 'block';
+            return; // Arrêter le processus d'envoi
+          }
+
           try {
             // Envoi de la requête POST au serveur pour vérifier l'unicité de l'email
             const response = await fetch('http://localhost:3000/api/user/verifUnicEmail', {
@@ -320,6 +328,7 @@
           }
         });
       });
+
 
       document.addEventListener('DOMContentLoaded', function() {
         const countryCodeSelect = document.getElementById('countryCode');
@@ -434,7 +443,7 @@
         const formData = new FormData();
         formData.append('image', input.files[0]);
 
-        fetch('http://localhost:3000/api/user/uplaodImage', {
+        fetch('http://localhost:3001/api/user/uplaodImage', {
           method: 'POST',
           body: formData
         })
@@ -468,6 +477,10 @@
           const passwordField = document.getElementById('password');
           const confirmPasswordField = document.getElementById('password-confirm');
           if (passwordField.value !== confirmPasswordField.value) {
+            isValid = false;
+          }
+          const emailField = document.querySelector('input[name="email"]');
+          if (!emailField.value.endsWith('@esprit.tn')) {
             isValid = false;
           }
 
